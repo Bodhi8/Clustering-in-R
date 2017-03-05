@@ -1,4 +1,4 @@
 # Clustering-in-R
 
-This is for Hierarchical clustering in R
+This Repository Is For Clustering in R
 
