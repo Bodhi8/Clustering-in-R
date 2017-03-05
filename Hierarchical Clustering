@@ -1,0 +1,13 @@
+##Load Data for csv or connect to db
+dataset <- read.csv()
+
+##Create Dataset
+
+##Create Distance Matrix
+d <- dist(dataset)
+
+#Hierarchical clustering
+c <- hclust(d)
+
+#Plot dendogram of clusters
+plot(c, main = "cluster name")
